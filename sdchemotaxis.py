@@ -8,6 +8,8 @@ import pathlib
 import json
 
 """
+This module has been realized by Thibault Fillion, on his GitHub you can find the original. I had the permission to 
+use it for my thesis. Here's a brief description:
 This module allows to simulate the chemotactic migration of cells
 degrading the chemoattractant with a very simple model. Self-driven chemotactic behavior has been 
 extensively studied, both experimentally and numerically, by Tweedy et al., who 
